@@ -1,5 +1,7 @@
-nav_items: 
-  - {label: 'Home', path: '/'}
-  - {label: 'Products', path: '/products/'}
-  - {label: 'News and Gossips', path: '/news'}
-
+nav_items:
+  - label: Home
+    path: /
+  - label: Products
+    path: /products/
+  - label: Curly Braces news
+    path: /news
